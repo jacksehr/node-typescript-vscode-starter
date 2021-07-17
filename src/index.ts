@@ -1,5 +1,7 @@
 const main = () => {
-  return 'Hello world!';
+  return `Hello world!`;
 }
+
+main();
 
 export { main };
