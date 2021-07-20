@@ -18,11 +18,18 @@
   "description": "",
   "devDependencies": {
     "@tsconfig/node14": "^1.0.1",
+    "@types/chart.js": "^2.9.34",
     "@types/jest": "^26.0.24",
     "@types/node": "^16.3.3",
+    "@types/node-fetch": "^2.5.11",
     "jest": "^27.0.6",
     "ts-jest": "^27.0.3",
     "ts-node": "^10.1.0",
     "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "chart.js": "^3.4.1",
+    "ml-regression-simple-linear": "^2.0.3",
+    "node-fetch": "^2.6.1"
   }
 }
