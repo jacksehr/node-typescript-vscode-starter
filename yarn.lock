@@ -1095,6 +1095,11 @@ cssstyle@^2.3.0:
   dependencies:
     cssom "~0.3.6"
 
+csv-reader@^1.0.8:
+  version "1.0.8"
+  resolved "https://packages.atlassian.com/api/npm/npm-remote/csv-reader/-/csv-reader-1.0.8.tgz#2d1ee452550016aa3b3defea0339a209161eff21"
+  integrity sha1-LR7kUlUAFqo7Pe/qAzmiCRYe/yE=
+
 data-urls@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/data-urls/-/data-urls-2.0.0.tgz#156485a72963a970f5d5821aaf642bef2bf2db9b"
